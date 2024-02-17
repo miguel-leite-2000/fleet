@@ -8,7 +8,7 @@ export function SignIn() {
     <Container source={background}>
       <Title>Ignite Fleet</Title>
       <Slogan> Gestão de uso de veículos </Slogan>
-      <Button title="Entrar com Google" isLoading />
+      <Button title="Entrar com Google" />
     </Container>
   );
 }
